@@ -29,3 +29,5 @@ Have we piqued your interest? Learn more about the game and then get started pla
 
 ![Screenshot](docs/resources/screenshot-april-2019.png "Screenshot")
 
+`If you have some question with this project, feel free to reach out`
+
